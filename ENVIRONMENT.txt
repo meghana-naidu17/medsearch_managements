@@ -1,0 +1,9 @@
+MEDSEARCH_DB_URL=jdbc:postgresql://localhost:5432/medsearch
+MEDSEARCH_DB_USER=postgres
+MEDSEARCH_DB_PASSWORD=YOUR_POSTGRES_PASSWORD
+
+Set the password in PowerShell before running:
+$env:MEDSEARCH_DB_PASSWORD="YOUR_POSTGRES_PASSWORD"
+
+The PostgreSQL JDBC driver is included in lib/postgresql-42.7.11.jar.
+Database schema/data: lib/database_setup.sql
