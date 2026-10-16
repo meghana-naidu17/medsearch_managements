@@ -1,0 +1,17 @@
+doctor_id,name,specialization,department,availability,password
+201,Dr. Arun Sharma,Cardiology,Heart Department,09:00 AM - 01:00 PM,doctor123
+202,Dr. Meera Iyer,Dermatology,Skin & Allergy Department,11:00 AM - 03:00 PM,doctor123
+203,Dr. Ravi Kumar,General Medicine,Internal Medicine Department,08:30 AM - 12:30 PM,doctor123
+204,Dr. Elena Rostova,Neurology,Neuroscience Department,10:00 AM - 02:00 PM,doctor123
+205,Dr. Sanjay Gupta,Orthopedics,Bone & Joint Department,01:00 PM - 05:00 PM,doctor123
+206,Dr. Sarah Mitchell,Pediatrics,Child Healthcare Department,09:00 AM - 01:00 PM,doctor123
+207,Dr. Tariq Mansoor,Oncology,Cancer Care Department,11:00 AM - 04:00 PM,doctor123
+208,Dr. Ananya Sen,Endocrinology,Diabetes & Hormone Department,02:00 PM - 06:00 PM,doctor123
+209,Dr. Vikram Rathore,Pulmonology,Respiratory & Chest Department,10:00 AM - 02:00 PM,doctor123
+210,Dr. Kavita Reddy,Gastroenterology,Digestive Health Department,09:30 AM - 01:30 PM,doctor123
+211,Dr. James Wilson,Ophthalmology,Eye Care Department,08:00 AM - 12:00 PM,doctor123
+212,Dr. Maya Patel,Psychiatry,Mental Health Department,02:00 PM - 06:00 PM,doctor123
+213,Dr. David Miller,Nephrology,Kidney Care Department,11:00 AM - 03:00 PM,doctor123
+214,Dr. Sunita Varma,Gynecology,Women Healthcare Department,09:00 AM - 02:00 PM,doctor123
+215,Dr. Rajesh Nambiar,ENT,Ear Nose Throat Department,10:00 AM - 01:00 PM,doctor123
+216,Dr. Anthony Chen,Urology,Urinary Health Department,01:30 PM - 05:30 PM,doctor123

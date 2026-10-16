@@ -1,0 +1,29 @@
+patient_id,name,age,gender,phone,password
+101,Ananya Sharma,24,Female,9000000001,pass123
+102,Rahul Verma,31,Male,9000000002,rahul123
+103,Priya Patel,28,Female,9000000003,priya123
+104,David Chen,45,Male,9000000004,david123
+105,Sarah Jenkins,52,Female,9000000005,sarah123
+106,Aisha Khan,34,Female,9000000006,aisha123
+107,Carlos Gomez,39,Male,9000000007,carlos123
+108,Emily Taylor,29,Female,9000000008,emily123
+109,Vikram Malhotra,61,Male,9000000009,vikram123
+110,Sneha Nair,22,Female,9000000010,sneha123
+111,Robert Wilson,58,Male,9000000011,robert123
+112,Sunita Rao,47,Female,9000000012,sunita123
+113,Amit Singh,36,Male,9000000013,amit123
+114,Fatima Al-Mansoor,41,Female,9000000014,fatima123
+115,Michael Brown,67,Male,9000000015,michael123
+116,Pooja Joshi,26,Female,9000000016,pooja123
+117,Arjun Kapoor,33,Male,9000000017,arjun123
+118,Maria Santos,50,Female,9000000018,maria123
+119,Kevin Lee,42,Male,9000000019,kevin123
+120,Deepa Krishnan,38,Female,9000000020,deepa123
+121,James Anderson,63,Male,9000000021,james123
+122,Neha Gupta,27,Female,9000000022,neha123
+123,Rajesh Khanna,55,Male,9000000023,rajesh123
+124,Laura Martinez,32,Female,9000000024,laura123
+125,Karan Mehta,49,Male,9000000025,karan123
+2,Mini,17,Female,234567890,mini
+1,mini,89,Male,34567890,mini
+17,Meghana,19,Female,8500022285,1707

@@ -1,0 +1,21 @@
+report_id,patient_id,test_name,result,report_date
+501,101,Blood Pressure Monitoring,145/92 mmHg - Stage 1 Hypertension,2026-09-01
+502,102,Serum IgE Level,380 IU/mL - Elevated allergic marker,2026-09-02
+503,103,Complete Blood Count (CBC),WBC 11500 /mcL with mild neutrophilia,2026-09-03
+504,104,Brain MRI Non-Contrast,No acute intracranial hemorrhage or structural lesion,2026-09-04
+505,105,Lumbar Spine X-Ray,L4-L5 disc space narrowing with mild osteophytes,2026-09-05
+506,106,Peak Expiratory Flow Rate,PEFR 210 L/min - Moderate airway reversibility,2026-09-06
+507,107,Neck and Thorax CT Scan,No pathological lymphadenopathy detected,2026-09-07
+508,108,HbA1c Glycated Hemoglobin,8.2% - Poor glycemic control,2026-09-08
+509,109,Pulmonary Function Test,FEV1/FVC 64% - Obstructive ventilatory defect,2026-09-09
+510,110,Upper Gastrointestinal Endoscopy,Grade B reflux esophagitis at gastroesophageal junction,2026-09-10
+511,111,Slit Lamp Examination,Right eye central nuclear opacity grade 3,2026-09-11
+512,112,Thyroid Function Panel,TSH 2.1 mIU/L - Normal euthyroid state,2026-09-12
+513,113,Serum Creatinine and eGFR,Creatinine 1.4 mg/dL and eGFR 74 mL/min/1.73m2,2026-09-13
+514,114,Pelvic Ultrasonography,Bilateral polycystic ovarian morphology,2026-09-14
+515,115,CT Paranasal Sinuses,Mucosal thickening in maxillary and ethmoid sinuses,2026-09-15
+516,116,Serum Prostate-Specific Antigen (PSA),PSA 3.1 ng/mL - Within normal range for age,2026-09-16
+517,117,12-Lead Electrocardiogram (ECG),ST segment depression 1.5mm in leads V4-V6,2026-09-17
+518,118,Skin Biopsy Histopathology,Hyperkeratosis with parakeratosis consistent with psoriasis,2026-09-18
+519,119,Chest Radiograph PA View,Consolidation patch in right lower lobe infiltrate,2026-09-19
+520,120,Electromyography and Nerve Conduction,Median nerve sensory latency prolongation across carpal tunnel,2026-09-20

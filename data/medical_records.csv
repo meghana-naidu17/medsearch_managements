@@ -1,0 +1,26 @@
+record_id,patient_id,doctor_id,diagnosis,clinical_notes,record_date
+401,101,201,Hypertension,Patient has elevated systolic blood pressure (145/92 mmHg). Prescribed lifestyle changes and low sodium diet. Follow-up required.,2026-09-01
+402,102,202,Atopic Dermatitis,Patient reports severe itching erythematous patches on forearm and neck. Allergic history present. Topical steroid advised.,2026-09-02
+403,103,203,Acute Viral Bronchitis,Patient presents with persistent cough low-grade fever and mild fatigue. Chest examination reveals mild wheezing.,2026-09-03
+404,104,204,Migraine with Aura,Recurrent unilateral throbbing headache accompanied by visual aura and photophobia. Sleep hygiene counseling provided.,2026-09-04
+405,105,205,Lumbar Spondylosis,Chronic low back stiffness and bilateral radiation to posterior thighs. Physical therapy and ergonomic posture recommended.,2026-09-05
+406,106,206,Pediatric Asthma,6-year-old patient with nocturnal wheezing and shortness of breath triggered by seasonal pollen. Metered dose inhaler prescribed.,2026-09-06
+407,107,207,Hodgkin Lymphoma Follow-up,Post-chemotherapy surveillance. Lymph node ultrasound shows complete radiological remission without acute relapse signs.,2026-09-07
+408,108,208,Type 2 Diabetes Mellitus,Fasting blood glucose elevated at 168 mg/dL. HbA1c is 8.2 percent. Metformin regimen initiated with dietary counseling.,2026-09-08
+409,109,209,Chronic Obstructive Pulmonary Disease,Longstanding dyspnea on minimal exertion and chronic sputum production. Spirometry indicates FEV1/FVC ratio below 0.70.,2026-09-09
+410,110,210,Gastroesophageal Reflux Disease,Frequent heartburn regurgitation and retrosternal discomfort after meals. Proton pump inhibitor therapy initiated.,2026-09-10
+411,111,211,Senile Nuclear Cataract,Progressive painless visual acuity loss in right eye with glare intolerance. Phacoemulsification surgery scheduled.,2026-09-11
+412,112,212,Generalized Anxiety Disorder,Persistent generalized worry restlessness muscle tension and insomnia lasting over six months. Cognitive behavioral therapy planned.,2026-09-12
+413,113,213,Chronic Kidney Disease Stage 2,Mild albuminuria detected with estimated GFR of 74 mL/min. Blood pressure control and nephroprotective regimen started.,2026-09-13
+414,114,214,Polycystic Ovarian Syndrome,Irregular menstrual cycles hirsutism and bilateral pelvic ultrasound ovaries with multiple peripheral subcentimeter follicles.,2026-09-14
+415,115,215,Chronic Allergic Sinusitis,Bilateral nasal obstruction frontal headache and postnasal drip. Nasal corticosteroid spray and saline wash advised.,2026-09-15
+416,116,216,Benign Prostatic Hyperplasia,Hesitancy nocturia and intermittent urinary stream in elderly patient. Alpha-blocker medication initiated.,2026-09-16
+417,117,201,Coronary Artery Disease,Exertional angina pectoris relieved by sublingual nitroglycerin. Coronary angiography evaluation recommended.,2026-09-17
+418,118,202,Psoriasis Vulgaris,Well-demarcated silvery-scale plaques on bilateral extensor surfaces of knees and elbows. Topical calcipotriol prescribed.,2026-09-18
+419,119,203,Community Acquired Pneumonia,High fever productive rust-colored sputum and localized crepitations in right lower lung lobe. Antibiotic course initiated.,2026-09-19
+420,120,204,Carpal Tunnel Syndrome,Numbness and paresthesia along median nerve distribution of dominant right hand. Wrist splinting recommended.,2026-09-20
+421,121,205,Osteoarthritis of Knee,Bilateral knee crepitus joint stiffness in morning and difficulty descending stairs. Quad-strengthening exercises taught.,2026-09-21
+422,122,208,Primary Hypothyroidism,Fatigue cold intolerance weight gain and elevated TSH level at 11.4 mIU/L. Levothyroxine replacement therapy started.,2026-09-22
+423,123,209,Obstructive Sleep Apnea,Excessive daytime sleepiness heavy snoring and witnessed apneas during sleep. Polysomnography test ordered.,2026-09-23
+424,124,210,Irritable Bowel Syndrome,Alternating constipation and loose stools associated with lower abdominal cramping relieved upon defecation.,2026-09-24
+425,125,201,Atrial Fibrillation,Irregularly irregular cardiac rhythm palpitations and fatigue. Rate control medication and oral anticoagulation started.,2026-09-25

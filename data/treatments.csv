@@ -1,0 +1,21 @@
+treatment_id,patient_id,doctor_id,treatment,notes
+601,101,201,Telmisartan 40mg daily and dietary sodium reduction,Check blood pressure weekly and repeat serum electrolytes in 4 weeks.
+602,102,202,Mometasone furoate 0.1% topical cream twice daily,Moisturize skin with ceramide emollient; avoid hot showers.
+603,103,203,Azithromycin 500mg daily for 5 days with steam inhalation,Hydration and warm saline gargles; rest for 3 days.
+604,104,204,Sumatriptan 50mg SOS at onset and Propranolol 40mg daily,Maintain migraine headache diary; minimize screen exposure.
+605,105,205,Core stability lumbar physiotherapy and Aceclofenac SOS,Avoid heavy weight lifting; follow ergonomic desk chair setup.
+606,106,206,Salbutamol 100mcg MDI with spacer and Budesonide 200mcg,Demonstrated inhaler technique to parents; review in 3 weeks.
+607,107,207,Routine hematological surveillance and 3-month PET-CT follow-up,Report immediately if any constitutional fever or weight loss occurs.
+608,108,208,Metformin 500mg twice daily with meals and diabetic diet,Perform daily self-monitoring of blood glucose; recheck HbA1c in 3 months.
+609,109,209,Tiotropium 18mcg dry powder inhaler daily and pulmonary rehab,Influenza vaccination advised; avoid biomass and tobacco smoke.
+610,110,210,Esomeprazole 40mg once daily before breakfast for 8 weeks,Elevate head of bed 15 degrees; avoid caffeine and late night meals.
+611,111,211,Pre-operative ophthalmic evaluation and topical antibiotic drops,Booked for day-care phacoemulsification with intraocular lens implant.
+612,112,212,Sertraline 25mg daily titrated to 50mg with relaxation therapy,Counseling sessions scheduled biweekly; monitor mood and sleep patterns.
+613,113,213,Losartan 25mg daily and low protein low potassium diet,Strict target BP < 130/80 mmHg; avoid NSAID analgesics.
+614,114,214,Combined oral contraceptive pill and Metformin 500mg once daily,Encouraged brisk walking 30 minutes daily for insulin resistance.
+615,115,215,Fluticasone furoate nasal spray 2 sprays each nostril daily,Continue saline nasal irrigation morning and night.
+616,116,216,Tamsulosin 0.4mg at bedtime,Advised avoiding fluid intake 2 hours before bed; review in 1 month.
+617,117,201,Aspirin 75mg Atorvastatin 40mg and Metoprolol 25mg twice daily,Schedule elective coronary angiography next week.
+618,118,202,Calcipotriol plus Betamethasone dipropionate ointment,Apply once daily to scalp and body plaques for 4 weeks.
+619,119,203,Amoxicillin-Clavulanate 625mg thrice daily for 7 days,Oxygen saturation monitoring; return if breathlessness increases.
+620,120,204,Neutral wrist splinting during sleep and Pregabalin 75mg at night,Follow occupational ergonomic adjustments for keyboard typing.
